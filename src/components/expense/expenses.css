@@ -5,3 +5,10 @@
     width: 50rem;
     max-width: 95%;
   }
+
+  .expenses > p {
+    color: aliceblue;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    padding: 0 1rem;
+  }
